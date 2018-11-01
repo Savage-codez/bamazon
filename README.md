@@ -1,6 +1,8 @@
 # bamazon
-
-![Image of bamazon](https://drive.google.com/open?id=1yggtXklY6wRNrV7e-GoJQuIFETCx2zdN)
+![Image of bamazon](https://savage-codez.github.com/ss1.png)
+![Image of bamazon](https://savage-codez.github.com/ss2.png)
+![Image of bamazon](https://savage-codez.github.com/ss3.png)
+![Image of bamazon](https://savage-codez.github.com/ss4.png)
 
 
 How to use:
