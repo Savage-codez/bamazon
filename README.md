@@ -1,5 +1,5 @@
 # bamazon
-![Image of bamazon](https://savage-codez.github.com/bamazon/images/ss1.png)
+![Image of bamazon](https://github.com/Savage-codez/bamazon/blob/master/images/ss1.png)
 ![Image of bamazon](https://savage-codez.github.com/bamazon/images/ss2.png)
 ![Image of bamazon](https://savage-codez.github.com/bamazon/images/ss3.png)
 ![Image of bamazon](https://savage-codez.github.com/bamazon/images/ss4.png)
